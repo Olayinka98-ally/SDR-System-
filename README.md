@@ -1,0 +1,1 @@
+If you're here, thank you for showing interest. I'm a final year electrical and electronics student and my project topic is "design and implementation of an SDR system for ham radio using Arduino". i cant make use of rtl-sdr as i have to custom build an rf front-end from scratch.
